@@ -19,7 +19,6 @@ body{
   padding-top:10px;
   padding-bottom:0px;
   margin:5px;
-  text-direction:center;
   text-decoration:none;
 }
 #profile-image{
@@ -65,12 +64,10 @@ flex-direction:right;
   margin-left:20px;
   
 }
-.press{
-  
-}
+
 button{
   padding:5px;
-  border-raduis:8px;
+  border-radius:8px;
 }
 h6{
   margin-left: 42%;
@@ -102,9 +99,7 @@ ul{
   list-style:none;
   margin-top:20px;
 }
-#pp{
-  
-}
+
 h6{
   font-size:13px;
 }
