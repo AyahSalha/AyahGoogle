@@ -1,0 +1,159 @@
+body{
+  font-family: HelveticaNeue,'Noto Naskh Arabic UI',Serif,Arial,sans-serif;
+}
+#header{
+  width:100%;
+  display:flex;
+   padding:0px;
+  margin:5px;
+  flex-direction:row;
+}
+/*#app-image a:hover{
+  background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ic_apps_36px.svg/1024px-Ic_apps_36px.svg.png);
+}*/
+.share{
+  margin-left:70%;
+}
+#pic{
+  width:50px;
+  padding-top:10px;
+  padding-bottom:0px;
+  margin:5px;
+  text-direction:center;
+  text-decoration:none;
+}
+#profile-image{
+  border-radius:50%;
+  width:50px;
+}
+#email{
+  text-decoration:none;
+}
+#app-image{
+  width:50px;
+}
+#main{
+   display:block;
+  margin:0 auto;
+}
+#google{
+ display:block;
+  margin:0 auto;
+  height:196px;
+  width:550px;
+  
+}
+#searchtext{
+  display:block;
+  margin:0 auto;
+  width:550px;
+  height:25px;
+  border-style: groove;;
+  border-radius:5px;
+  border-color:lightgray;
+}
+.click{
+  
+flex-direction:right; 
+  margin:15px;
+  margin-left:45%;
+  width:200px;
+  display:block;
+  opacity: 1.5;
+}
+#b1{
+  margin-left:20px;
+  
+}
+.press{
+  
+}
+button{
+  padding:5px;
+  border-raduis:8px;
+}
+h6{
+  margin-left: 42%;
+}
+#p1{
+  font-size:15px;
+  margin-top:0px;
+  margin-right:5px;
+   height:0px;
+ /* background:pink;
+  #f2f2f2*/
+}
+#pal{
+
+  text-align:right;
+}
+#list1{
+  
+  display:flex;
+float:right;
+}
+#list2{
+  
+  display:flex;
+  
+}
+ul{
+  font-size:14px;
+  list-style:none;
+  margin-top:20px;
+}
+#pp{
+  
+}
+h6{
+  font-size:13px;
+}
+h6 a:hover{
+  color:blue;
+  
+}
+li a{
+   text-decoration: none;
+  color:black;
+}
+li a:hover{
+  color:black;
+  text-decoration: underline;
+}
+li{
+  
+  padding:5px;
+  padding-top:10px;
+}
+#footer{
+  height:65px;
+  position: fixed;
+  left: 0;
+  width: 100%;
+  border-top:10px;
+  bottom:6px;
+  border-color:black;
+  background:#f2f2f2;
+}
+/*#list1{
+  display:flex;
+   float:right;
+ height:32px;
+   position:relative;
+}
+#list2{
+ 
+  display:flex;
+   float:left;
+  height:32px;
+}
+li{
+  margin:5px;
+  list-style:none;
+  list-direction:right;
+   
+}
+.af{
+  padding:9px;
+  text-align:right;
+}*/
